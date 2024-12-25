@@ -1,0 +1,16 @@
+数据处理端运行说明：
+1.解压Analyze压缩包，
+2.删除原先DownloadData文件夹中用来训练模型拟合回归的数据文件（可选）
+3.配置运行相关依赖文件requirements.txt
+4.运行python文件forecast.py即可运行
+发布端运行说明：
+1.配置运行依赖环境命令
+pip install paho-mqtt flask flask-socketio
+2.检查sorted_data.json文件有没有当前对应时间的数据供发布
+3.运行python文件publish.py即可运行，每个小时的整点，20分，50分发布数据
+前端运行说明：
+1.打开前端所在文件夹
+2.控制台运行命令
+npm install
+npm run dev
+即可打开前端界面

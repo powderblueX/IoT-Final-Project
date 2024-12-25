@@ -1,0 +1,942 @@
+[
+    {
+        "timestamp": "2024-12-23 00:00:00",
+        "actual_value": 66.0,
+        "predicted_value": 69.58612767371778
+    },
+    {
+        "timestamp": "2024-12-23 00:20:00",
+        "actual_value": 75.0,
+        "predicted_value": 76.2111848967561
+    },
+    {
+        "timestamp": "2024-12-23 00:50:00",
+        "actual_value": 75.0,
+        "predicted_value": 78.98395225787044
+    },
+    {
+        "timestamp": "2024-12-23 01:00:00",
+        "actual_value": 65.0,
+        "predicted_value": 74.56866511427052
+    },
+    {
+        "timestamp": "2024-12-23 01:20:00",
+        "actual_value": 75.0,
+        "predicted_value": 80.96812527524526
+    },
+    {
+        "timestamp": "2024-12-23 01:50:00",
+        "actual_value": 75.0,
+        "predicted_value": 83.19710702404063
+    },
+    {
+        "timestamp": "2024-12-23 02:00:00",
+        "actual_value": 73.0,
+        "predicted_value": 78.28315608721732
+    },
+    {
+        "timestamp": "2024-12-23 02:20:00",
+        "actual_value": 87.0,
+        "predicted_value": 84.49007187196912
+    },
+    {
+        "timestamp": "2024-12-23 02:50:00",
+        "actual_value": 87.0,
+        "predicted_value": 86.22484703720329
+    },
+    {
+        "timestamp": "2024-12-23 03:00:00",
+        "actual_value": 84.0,
+        "predicted_value": 80.84845268467961
+    },
+    {
+        "timestamp": "2024-12-23 03:20:00",
+        "actual_value": 87.0,
+        "predicted_value": 86.89587677904638
+    },
+    {
+        "timestamp": "2024-12-23 03:50:00",
+        "actual_value": 93.0,
+        "predicted_value": 88.18602438948346
+    },
+    {
+        "timestamp": "2024-12-23 04:00:00",
+        "actual_value": 87.0,
+        "predicted_value": 82.38340699879063
+    },
+    {
+        "timestamp": "2024-12-23 04:20:00",
+        "actual_value": 93.0,
+        "predicted_value": 88.30439208861571
+    },
+    {
+        "timestamp": "2024-12-23 04:50:00",
+        "actual_value": 93.0,
+        "predicted_value": 89.19949117301167
+    },
+    {
+        "timestamp": "2024-12-23 05:00:00",
+        "actual_value": 89.0,
+        "predicted_value": 83.00687112169089
+    },
+    {
+        "timestamp": "2024-12-23 05:20:00",
+        "actual_value": 93.0,
+        "predicted_value": 88.8344698928122
+    },
+    {
+        "timestamp": "2024-12-23 05:50:00",
+        "actual_value": 93.0,
+        "predicted_value": 89.38409947992841
+    },
+    {
+        "timestamp": "2024-12-23 06:00:00",
+        "actual_value": 91.0,
+        "predicted_value": 82.83769714549544
+    },
+    {
+        "timestamp": "2024-12-23 06:20:00",
+        "actual_value": 93.0,
+        "predicted_value": 88.6049622837536
+    },
+    {
+        "timestamp": "2024-12-23 06:50:00",
+        "actual_value": 93.0,
+        "predicted_value": 88.85870140234874
+    },
+    {
+        "timestamp": "2024-12-23 07:00:00",
+        "actual_value": 86.0,
+        "predicted_value": 81.9947371623457
+    },
+    {
+        "timestamp": "2024-12-23 07:20:00",
+        "actual_value": 93.0,
+        "predicted_value": 87.73472135358043
+    },
+    {
+        "timestamp": "2024-12-23 07:50:00",
+        "actual_value": 93.0,
+        "predicted_value": 87.74214903241773
+    },
+    {
+        "timestamp": "2024-12-23 08:00:00",
+        "actual_value": 88.0,
+        "predicted_value": 80.59684326436764
+    },
+    {
+        "timestamp": "2024-12-23 08:20:00",
+        "actual_value": 87.0,
+        "predicted_value": 86.34259919441593
+    },
+    {
+        "timestamp": "2024-12-23 08:50:00",
+        "actual_value": 87.0,
+        "predicted_value": 86.15329446225405
+    },
+    {
+        "timestamp": "2024-12-23 09:00:00",
+        "actual_value": 85.0,
+        "predicted_value": 78.76286754369175
+    },
+    {
+        "timestamp": "2024-12-23 09:20:00",
+        "actual_value": 87.0,
+        "predicted_value": 84.54744789839697
+    },
+    {
+        "timestamp": "2024-12-23 09:50:00",
+        "actual_value": 87.0,
+        "predicted_value": 84.21098978399004
+    },
+    {
+        "timestamp": "2024-12-23 10:00:00",
+        "actual_value": 82.0,
+        "predicted_value": 76.61166209244857
+    },
+    {
+        "timestamp": "2024-12-23 10:20:00",
+        "actual_value": 81.0,
+        "predicted_value": 82.46811955764952
+    },
+    {
+        "timestamp": "2024-12-23 10:50:00",
+        "actual_value": 81.0,
+        "predicted_value": 82.03408708976258
+    },
+    {
+        "timestamp": "2024-12-23 11:00:00",
+        "actual_value": 69.0,
+        "predicted_value": 74.26207900276586
+    },
+    {
+        "timestamp": "2024-12-23 11:20:00",
+        "actual_value": 76.0,
+        "predicted_value": 80.22346626430317
+    },
+    {
+        "timestamp": "2024-12-23 11:50:00",
+        "actual_value": 76.0,
+        "predicted_value": 79.74143847169762
+    },
+    {
+        "timestamp": "2024-12-23 12:00:00",
+        "actual_value": 66.0,
+        "predicted_value": 71.83297036677595
+    },
+    {
+        "timestamp": "2024-12-23 12:20:00",
+        "actual_value": 76.0,
+        "predicted_value": 77.93234011048935
+    },
+    {
+        "timestamp": "2024-12-23 12:50:00",
+        "actual_value": 76.0,
+        "predicted_value": 77.45189602192568
+    },
+    {
+        "timestamp": "2024-12-23 13:00:00",
+        "actual_value": 62.0,
+        "predicted_value": 69.44318827661209
+    },
+    {
+        "timestamp": "2024-12-23 13:20:00",
+        "actual_value": 70.0,
+        "predicted_value": 75.71359318834129
+    },
+    {
+        "timestamp": "2024-12-23 13:50:00",
+        "actual_value": 66.0,
+        "predicted_value": 75.28431183257089
+    },
+    {
+        "timestamp": "2024-12-23 14:00:00",
+        "actual_value": null,
+        "predicted_value": 55.333061675166945
+    },
+    {
+        "timestamp": "2024-12-23 14:20:00",
+        "actual_value": 66.0,
+        "predicted_value": 73.68607758998405
+    },
+    {
+        "timestamp": "2024-12-23 14:50:00",
+        "actual_value": 66.0,
+        "predicted_value": 73.35753799577378
+    },
+    {
+        "timestamp": "2024-12-23 15:00:00",
+        "actual_value": 56.0,
+        "predicted_value": 65.2570121022718
+    },
+    {
+        "timestamp": "2024-12-23 15:20:00",
+        "actual_value": 70.0,
+        "predicted_value": 71.96864540754905
+    },
+    {
+        "timestamp": "2024-12-23 15:50:00",
+        "actual_value": 66.0,
+        "predicted_value": 71.7904266036594
+    },
+    {
+        "timestamp": "2024-12-23 16:00:00",
+        "actual_value": 55.0,
+        "predicted_value": 63.69832220235821
+    },
+    {
+        "timestamp": "2024-12-23 16:20:00",
+        "actual_value": 66.0,
+        "predicted_value": 70.68014873317225
+    },
+    {
+        "timestamp": "2024-12-23 16:50:00",
+        "actual_value": 70.0,
+        "predicted_value": 70.70182974836098
+    },
+    {
+        "timestamp": "2024-12-23 17:00:00",
+        "actual_value": 60.0,
+        "predicted_value": 62.65436721678816
+    },
+    {
+        "timestamp": "2024-12-23 17:20:00",
+        "actual_value": 70.0,
+        "predicted_value": 69.9394396589787
+    },
+    {
+        "timestamp": "2024-12-23 17:50:00",
+        "actual_value": 70.0,
+        "predicted_value": 70.2105995220054
+    },
+    {
+        "timestamp": "2024-12-23 18:00:00",
+        "actual_value": 62.0,
+        "predicted_value": 62.24399923769033
+    },
+    {
+        "timestamp": "2024-12-23 18:20:00",
+        "actual_value": 70.0,
+        "predicted_value": 69.8653702770971
+    },
+    {
+        "timestamp": "2024-12-23 18:50:00",
+        "actual_value": 75.0,
+        "predicted_value": 70.43558801672316
+    },
+    {
+        "timestamp": "2024-12-23 19:00:00",
+        "actual_value": 67.0,
+        "predicted_value": 62.586070357201606
+    },
+    {
+        "timestamp": "2024-12-23 19:20:00",
+        "actual_value": 75.0,
+        "predicted_value": 70.57679267966068
+    },
+    {
+        "timestamp": "2024-12-23 19:50:00",
+        "actual_value": 75.0,
+        "predicted_value": 71.49564732464387
+    },
+    {
+        "timestamp": "2024-12-23 20:00:00",
+        "actual_value": null,
+        "predicted_value": 71.69816719529624
+    },
+    {
+        "timestamp": "2024-12-23 20:20:00",
+        "actual_value": 75.0,
+        "predicted_value": 72.19255895880178
+    },
+    {
+        "timestamp": "2024-12-23 20:50:00",
+        "actual_value": 81.0,
+        "predicted_value": 73.50962953790258
+    },
+    {
+        "timestamp": "2024-12-23 21:00:00",
+        "actual_value": 73.0,
+        "predicted_value": 66.00293826055531
+    },
+    {
+        "timestamp": "2024-12-23 21:20:00",
+        "actual_value": 81.0,
+        "predicted_value": 74.83152120664181
+    },
+    {
+        "timestamp": "2024-12-23 21:50:00",
+        "actual_value": 75.0,
+        "predicted_value": 76.59638674862254
+    },
+    {
+        "timestamp": "2024-12-23 22:00:00",
+        "actual_value": 72.0,
+        "predicted_value": 69.31543922865876
+    },
+    {
+        "timestamp": "2024-12-23 22:20:00",
+        "actual_value": 81.0,
+        "predicted_value": 78.6125315153231
+    },
+    {
+        "timestamp": "2024-12-23 22:50:00",
+        "actual_value": 81.0,
+        "predicted_value": 80.87477104893787
+    },
+    {
+        "timestamp": "2024-12-23 23:00:00",
+        "actual_value": 71.0,
+        "predicted_value": 73.85578766388971
+    },
+    {
+        "timestamp": "2024-12-23 23:20:00",
+        "actual_value": 81.0,
+        "predicted_value": 83.65444197696979
+    },
+    {
+        "timestamp": "2024-12-23 23:50:00",
+        "actual_value": 87.0,
+        "predicted_value": 86.46363453098638
+    },
+    {
+        "timestamp": "2024-12-24 00:00:00",
+        "actual_value": 76.0,
+        "predicted_value": 77.19252272989524
+    },
+    {
+        "timestamp": "2024-12-24 00:20:00",
+        "actual_value": 81.0,
+        "predicted_value": 83.97616721387567
+    },
+    {
+        "timestamp": "2024-12-24 00:50:00",
+        "actual_value": 87.0,
+        "predicted_value": 84.81137180107453
+    },
+    {
+        "timestamp": "2024-12-24 01:00:00",
+        "actual_value": 82.0,
+        "predicted_value": 81.69108921363568
+    },
+    {
+        "timestamp": "2024-12-24 01:20:00",
+        "actual_value": 93.0,
+        "predicted_value": 88.27366484322738
+    },
+    {
+        "timestamp": "2024-12-24 01:50:00",
+        "actual_value": 93.0,
+        "predicted_value": 88.60187612960817
+    },
+    {
+        "timestamp": "2024-12-24 02:00:00",
+        "actual_value": 86.0,
+        "predicted_value": 84.9722654205516
+    },
+    {
+        "timestamp": "2024-12-24 02:20:00",
+        "actual_value": 93.0,
+        "predicted_value": 91.38682488159066
+    },
+    {
+        "timestamp": "2024-12-24 02:50:00",
+        "actual_value": 93.0,
+        "predicted_value": 91.25762189591751
+    },
+    {
+        "timestamp": "2024-12-24 03:00:00",
+        "actual_value": 84.0,
+        "predicted_value": 87.15490344276714
+    },
+    {
+        "timestamp": "2024-12-24 03:20:00",
+        "actual_value": 87.0,
+        "predicted_value": 93.43449942109146
+    },
+    {
+        "timestamp": "2024-12-24 03:50:00",
+        "actual_value": 93.0,
+        "predicted_value": 92.8974611921276
+    },
+    {
+        "timestamp": "2024-12-24 04:00:00",
+        "actual_value": 86.0,
+        "predicted_value": 88.35785537241554
+    },
+    {
+        "timestamp": "2024-12-24 04:20:00",
+        "actual_value": 93.0,
+        "predicted_value": 94.53554055386849
+    },
+    {
+        "timestamp": "2024-12-24 04:50:00",
+        "actual_value": 87.0,
+        "predicted_value": 93.64024611037166
+    },
+    {
+        "timestamp": "2024-12-24 05:00:00",
+        "actual_value": 86.0,
+        "predicted_value": 88.6999733016255
+    },
+    {
+        "timestamp": "2024-12-24 05:20:00",
+        "actual_value": 93.0,
+        "predicted_value": 94.80880037204588
+    },
+    {
+        "timestamp": "2024-12-24 05:50:00",
+        "actual_value": 93.0,
+        "predicted_value": 93.60482874277295
+    },
+    {
+        "timestamp": "2024-12-24 06:00:00",
+        "actual_value": 89.0,
+        "predicted_value": 88.30010932252844
+    },
+    {
+        "timestamp": "2024-12-24 06:20:00",
+        "actual_value": 93.0,
+        "predicted_value": 94.37313096775506
+    },
+    {
+        "timestamp": "2024-12-24 06:50:00",
+        "actual_value": 93.0,
+        "predicted_value": 92.91006118146652
+    },
+    {
+        "timestamp": "2024-12-24 07:00:00",
+        "actual_value": 91.0,
+        "predicted_value": 87.27711552725759
+    },
+    {
+        "timestamp": "2024-12-24 07:20:00",
+        "actual_value": 93.0,
+        "predicted_value": 93.34738443313108
+    },
+    {
+        "timestamp": "2024-12-24 07:50:00",
+        "actual_value": 93.0,
+        "predicted_value": 91.67479551858924
+    },
+    {
+        "timestamp": "2024-12-24 08:00:00",
+        "actual_value": 87.0,
+        "predicted_value": 85.74984400794165
+    },
+    {
+        "timestamp": "2024-12-24 08:20:00",
+        "actual_value": 93.0,
+        "predicted_value": 91.85041286029809
+    },
+    {
+        "timestamp": "2024-12-24 08:50:00",
+        "actual_value": 93.0,
+        "predicted_value": 90.01788384626434
+    },
+    {
+        "timestamp": "2024-12-24 09:00:00",
+        "actual_value": 89.0,
+        "predicted_value": 83.83714685670566
+    },
+    {
+        "timestamp": "2024-12-24 09:20:00",
+        "actual_value": 93.0,
+        "predicted_value": 90.00106834138842
+    },
+    {
+        "timestamp": "2024-12-24 09:50:00",
+        "actual_value": 87.0,
+        "predicted_value": 88.05817825662234
+    },
+    {
+        "timestamp": "2024-12-24 10:00:00",
+        "actual_value": 82.0,
+        "predicted_value": 81.65787616568468
+    },
+    {
+        "timestamp": "2024-12-24 10:20:00",
+        "actual_value": null,
+        "predicted_value": 91.57152370857796
+    },
+    {
+        "timestamp": "2024-12-24 10:50:00",
+        "actual_value": 81.0,
+        "predicted_value": 85.91453084178738
+    },
+    {
+        "timestamp": "2024-12-24 11:20:00",
+        "actual_value": 81.0,
+        "predicted_value": 85.72066883386378
+    },
+    {
+        "timestamp": "2024-12-24 11:50:00",
+        "actual_value": 87.0,
+        "predicted_value": 83.70579369390452
+    },
+    {
+        "timestamp": "2024-12-24 12:00:00",
+        "actual_value": 75.0,
+        "predicted_value": 76.97502253280254
+    },
+    {
+        "timestamp": "2024-12-24 12:20:00",
+        "actual_value": 81.0,
+        "predicted_value": 83.5273180295053
+    },
+    {
+        "timestamp": "2024-12-24 12:50:00",
+        "actual_value": 76.0,
+        "predicted_value": 81.55081890509337
+    },
+    {
+        "timestamp": "2024-12-24 13:00:00",
+        "actual_value": 72.0,
+        "predicted_value": 74.7091437752033
+    },
+    {
+        "timestamp": "2024-12-24 13:20:00",
+        "actual_value": 87.0,
+        "predicted_value": 81.45700264759489
+    },
+    {
+        "timestamp": "2024-12-24 13:50:00",
+        "actual_value": 81.0,
+        "predicted_value": 79.56845856748623
+    },
+    {
+        "timestamp": "2024-12-24 14:00:00",
+        "actual_value": 72.0,
+        "predicted_value": 72.65209984634112
+    },
+    {
+        "timestamp": "2024-12-24 14:20:00",
+        "actual_value": 81.0,
+        "predicted_value": 79.62857478025671
+    },
+    {
+        "timestamp": "2024-12-24 14:50:00",
+        "actual_value": 76.0,
+        "predicted_value": 77.87756477321182
+    },
+    {
+        "timestamp": "2024-12-24 15:00:00",
+        "actual_value": 67.0,
+        "predicted_value": 70.92274283834195
+    },
+    {
+        "timestamp": "2024-12-24 15:20:00",
+        "actual_value": 76.0,
+        "predicted_value": 78.16088651962582
+    },
+    {
+        "timestamp": "2024-12-24 15:50:00",
+        "actual_value": 76.0,
+        "predicted_value": 76.59698961440336
+    },
+    {
+        "timestamp": "2024-12-24 16:00:00",
+        "actual_value": 70.0,
+        "predicted_value": 69.63992484333812
+    },
+    {
+        "timestamp": "2024-12-24 16:20:00",
+        "actual_value": 76.0,
+        "predicted_value": 77.17278995782817
+    },
+    {
+        "timestamp": "2024-12-24 16:50:00",
+        "actual_value": 81.0,
+        "predicted_value": 75.84558518319045
+    },
+    {
+        "timestamp": "2024-12-24 17:00:00",
+        "actual_value": 67.0,
+        "predicted_value": 68.92249795346379
+    },
+    {
+        "timestamp": "2024-12-24 17:20:00",
+        "actual_value": 76.0,
+        "predicted_value": 76.78313718699792
+    },
+    {
+        "timestamp": "2024-12-24 17:50:00",
+        "actual_value": 76.0,
+        "predicted_value": 75.74220357170725
+    },
+    {
+        "timestamp": "2024-12-24 18:00:00",
+        "actual_value": 74.0,
+        "predicted_value": 68.88931426084218
+    },
+    {
+        "timestamp": "2024-12-24 18:20:00",
+        "actual_value": 81.0,
+        "predicted_value": 77.11078029926102
+    },
+    {
+        "timestamp": "2024-12-24 18:50:00",
+        "actual_value": 81.0,
+        "predicted_value": 76.40569687207426
+    },
+    {
+        "timestamp": "2024-12-24 19:00:00",
+        "actual_value": 76.0,
+        "predicted_value": 69.65922585760654
+    },
+    {
+        "timestamp": "2024-12-24 19:20:00",
+        "actual_value": 87.0,
+        "predicted_value": 78.27457138675254
+    },
+    {
+        "timestamp": "2024-12-24 19:50:00",
+        "actual_value": 81.0,
+        "predicted_value": 77.95491717642744
+    },
+    {
+        "timestamp": "2024-12-24 20:00:00",
+        "actual_value": 79.0,
+        "predicted_value": 71.35108483588829
+    },
+    {
+        "timestamp": "2024-12-24 20:20:00",
+        "actual_value": 81.0,
+        "predicted_value": 80.39336254159844
+    },
+    {
+        "timestamp": "2024-12-24 20:50:00",
+        "actual_value": 87.0,
+        "predicted_value": 80.50871657690095
+    },
+    {
+        "timestamp": "2024-12-24 21:00:00",
+        "actual_value": null,
+        "predicted_value": 83.75238102040498
+    },
+    {
+        "timestamp": "2024-12-24 21:20:00",
+        "actual_value": 87.0,
+        "predicted_value": 83.58600585593103
+    },
+    {
+        "timestamp": "2024-12-24 21:50:00",
+        "actual_value": 81.0,
+        "predicted_value": 84.1859471656162
+    },
+    {
+        "timestamp": "2024-12-24 22:00:00",
+        "actual_value": 77.0,
+        "predicted_value": 77.97605330552233
+    },
+    {
+        "timestamp": "2024-12-24 22:20:00",
+        "actual_value": 81.0,
+        "predicted_value": 87.97135342188176
+    },
+    {
+        "timestamp": "2024-12-24 22:50:00",
+        "actual_value": 87.0,
+        "predicted_value": 89.10546103471006
+    },
+    {
+        "timestamp": "2024-12-24 23:00:00",
+        "actual_value": 76.0,
+        "predicted_value": 83.14686698113383
+    },
+    {
+        "timestamp": "2024-12-24 23:20:00",
+        "actual_value": 87.0,
+        "predicted_value": 93.66825733158021
+    },
+    {
+        "timestamp": "2024-12-24 23:50:00",
+        "actual_value": 87.0,
+        "predicted_value": 95.38611027631123
+    },
+    {
+        "timestamp": "2024-12-25 00:00:00",
+        "actual_value": 76.0,
+        "predicted_value": 65.36776082203596
+    },
+    {
+        "timestamp": "2024-12-25 00:20:00",
+        "actual_value": 87.0,
+        "predicted_value": 73.61982049780181
+    },
+    {
+        "timestamp": "2024-12-25 00:50:00",
+        "actual_value": 81.0,
+        "predicted_value": 74.48220420734015
+    },
+    {
+        "timestamp": "2024-12-25 01:00:00",
+        "actual_value": 74.0,
+        "predicted_value": 70.10626930988656
+    },
+    {
+        "timestamp": "2024-12-25 01:20:00",
+        "actual_value": 75.0,
+        "predicted_value": 78.18178833892944
+    },
+    {
+        "timestamp": "2024-12-25 01:50:00",
+        "actual_value": 75.0,
+        "predicted_value": 78.5739710591588
+    },
+    {
+        "timestamp": "2024-12-25 02:00:00",
+        "actual_value": 70.0,
+        "predicted_value": 73.67804371169404
+    },
+    {
+        "timestamp": "2024-12-25 02:20:00",
+        "actual_value": 75.0,
+        "predicted_value": 81.61007477985459
+    },
+    {
+        "timestamp": "2024-12-25 02:50:00",
+        "actual_value": 75.0,
+        "predicted_value": 81.58163553953545
+    },
+    {
+        "timestamp": "2024-12-25 03:00:00",
+        "actual_value": 68.0,
+        "predicted_value": 76.20193611957802
+    },
+    {
+        "timestamp": "2024-12-25 03:20:00",
+        "actual_value": 81.0,
+        "predicted_value": 84.02353191269412
+    },
+    {
+        "timestamp": "2024-12-25 03:50:00",
+        "actual_value": 81.0,
+        "predicted_value": 83.62404974058973
+    },
+    {
+        "timestamp": "2024-12-25 04:00:00",
+        "actual_value": 75.0,
+        "predicted_value": 77.796798625679
+    },
+    {
+        "timestamp": "2024-12-25 04:20:00",
+        "actual_value": 81.0,
+        "predicted_value": 85.54101182959675
+    },
+    {
+        "timestamp": "2024-12-25 04:50:00",
+        "actual_value": 81.0,
+        "predicted_value": 84.82006575446212
+    },
+    {
+        "timestamp": "2024-12-25 05:00:00",
+        "actual_value": 74.0,
+        "predicted_value": 78.58148332212477
+    },
+    {
+        "timestamp": "2024-12-25 05:20:00",
+        "actual_value": 87.0,
+        "predicted_value": 86.28136662267934
+    },
+    {
+        "timestamp": "2024-12-25 05:50:00",
+        "actual_value": 87.0,
+        "predicted_value": 85.28853567327678
+    },
+    {
+        "timestamp": "2024-12-25 06:00:00",
+        "actual_value": 80.0,
+        "predicted_value": 78.67484230104583
+    },
+    {
+        "timestamp": "2024-12-25 06:20:00",
+        "actual_value": 87.0,
+        "predicted_value": 86.36344838407695
+    },
+    {
+        "timestamp": "2024-12-25 06:50:00",
+        "actual_value": 87.0,
+        "predicted_value": 85.14831158916604
+    },
+    {
+        "timestamp": "2024-12-25 07:00:00",
+        "actual_value": 80.0,
+        "predicted_value": 78.19572765456905
+    },
+    {
+        "timestamp": "2024-12-25 07:20:00",
+        "actual_value": 87.0,
+        "predicted_value": 85.90610920591826
+    },
+    {
+        "timestamp": "2024-12-25 07:50:00",
+        "actual_value": 87.0,
+        "predicted_value": 84.5182455942595
+    },
+    {
+        "timestamp": "2024-12-25 08:00:00",
+        "actual_value": 77.0,
+        "predicted_value": 77.2629914748286
+    },
+    {
+        "timestamp": "2024-12-25 08:20:00",
+        "actual_value": 87.0,
+        "predicted_value": 85.02820118033469
+    },
+    {
+        "timestamp": "2024-12-25 08:50:00",
+        "actual_value": 87.0,
+        "predicted_value": 83.51718978069039
+    },
+    {
+        "timestamp": "2024-12-25 09:00:00",
+        "actual_value": 78.0,
+        "predicted_value": 75.99548585395314
+    },
+    {
+        "timestamp": "2024-12-25 09:20:00",
+        "actual_value": null,
+        "predicted_value": 83.13451252639607
+    },
+    {
+        "timestamp": "2024-12-25 10:00:00",
+        "actual_value": 74.0,
+        "predicted_value": 74.51206288407684
+    },
+    {
+        "timestamp": "2024-12-25 10:20:00",
+        "actual_value": 81.0,
+        "predicted_value": 82.48608695541407
+    },
+    {
+        "timestamp": "2024-12-25 10:50:00",
+        "actual_value": 81.0,
+        "predicted_value": 80.87751706606832
+    },
+    {
+        "timestamp": "2024-12-25 11:00:00",
+        "actual_value": 72.0,
+        "predicted_value": 72.9315746573202
+    },
+    {
+        "timestamp": "2024-12-25 11:20:00",
+        "actual_value": 81.0,
+        "predicted_value": 81.05958494033712
+    },
+    {
+        "timestamp": "2024-12-25 11:50:00",
+        "actual_value": 76.0,
+        "predicted_value": 79.47660434928457
+    },
+    {
+        "timestamp": "2024-12-25 12:00:00",
+        "actual_value": 68.0,
+        "predicted_value": 71.37287326582191
+    },
+    {
+        "timestamp": "2024-12-25 12:20:00",
+        "actual_value": 81.0,
+        "predicted_value": 79.6879224463546
+    },
+    {
+        "timestamp": "2024-12-25 12:50:00",
+        "actual_value": 81.0,
+        "predicted_value": 78.18011018235302
+    },
+    {
+        "timestamp": "2024-12-25 13:00:00",
+        "actual_value": 73.0,
+        "predicted_value": 69.95481080170885
+    },
+    {
+        "timestamp": "2024-12-25 13:20:00",
+        "actual_value": 81.0,
+        "predicted_value": 78.48995156559977
+    },
+    {
+        "timestamp": "2024-12-25 13:50:00",
+        "actual_value": null,
+        "predicted_value": 77.10688665740872
+    },
+    {
+        "timestamp": "2024-12-25 14:20:00",
+        "actual_value": null,
+        "predicted_value": 77.58452439019766
+    },
+    {
+        "timestamp": "2024-12-25 15:00:00",
+        "actual_value": null,
+        "predicted_value": 68.01601102416225
+    },
+    {
+        "timestamp": "2024-12-25 15:50:00",
+        "actual_value": null,
+        "predicted_value": 76.10565990199484
+    },
+    {
+        "timestamp": "2024-12-25 16:20:00",
+        "actual_value": null,
+        "predicted_value": 77.12670952398639
+    }
+]
